@@ -15,11 +15,13 @@ All software I have already used daily at works.
 ### Git
 #### UI
    * GitKraken: https://www.gitkraken.com
+   * EGit: https://www.eclipse.org/egit/
 #### CLI
    * Tig:  https://github.com/jonas/tig
 ## IDE
-  * IntelliJ
+  * IntelliJ: https://www.jetbrains.com/idea/
   * Visual Studio Code :https://code.visualstudio.com
+  * Eclipse : https://www.eclipse.org
 ## DevOps
 ### Container
   *  Docker
