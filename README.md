@@ -10,6 +10,7 @@ All my favorite tools
   * Solarized: http://ethanschoonover.com/solarized
 ### Unix like for Windows
   * Babun shell: https://babun.github.io
+  * ConEmu: http://conemu.github.io
 ## Version Control
 ### Git
 #### UI
