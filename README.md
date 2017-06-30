@@ -1,5 +1,5 @@
 # Awesome Tools
-All my favorite tools
+All software I have already used daily at works.
 
 ## Design
 ### UML
@@ -19,7 +19,22 @@ All my favorite tools
    * Tig:  https://github.com/jonas/tig
 ## IDE
   * IntelliJ
-  * Visual Code
+  * Visual Studio Code :https://code.visualstudio.com
+## DevOps
+### Container
+  *  Docker
+### Ochestrator
+  *  Apache Marathon/Mesos: http://mesos.apache.org
+### Reverse Proxy
+  * Traefik: http://traefik.io
+### Code Review
+  * Gerrit: https://www.gerritcodereview.com
+  * ReviewBoard: https://www.reviewboard.org
+### Agile Project Managment
+  * Tuleap: http://tuleap.org
+## Others
+  * ProcessExplorer: https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx
+  
 
    
   
