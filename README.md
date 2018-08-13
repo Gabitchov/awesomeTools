@@ -8,9 +8,11 @@ All software I have already used daily at works.
 ### Customisation
   * Oh-my-zsh: http://ohmyz.sh
   * Solarized: http://ethanschoonover.com/solarized
+  * apt-cyg: https://github.com/transcode-open/apt-cyg
 ### Unix like for Windows
   * Babun shell: https://babun.github.io
   * ConEmu: http://conemu.github.io
+  * Cygwin: https://cygwin.com
 ## Version Control
 ### Git
 #### UI
