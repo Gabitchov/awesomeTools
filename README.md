@@ -24,11 +24,13 @@ All software I have already used daily at works.
   * IntelliJ: https://www.jetbrains.com/idea/
   * Visual Studio Code :https://code.visualstudio.com
   * Eclipse : https://www.eclipse.org
+  * Azure Data Studio (Old SQL Operation Studio): https://github.com/Microsoft/azuredatastudio
 ## DevOps
 ### Container
   *  Docker
 ### Ochestrator
   *  Apache Marathon/Mesos: http://mesos.apache.org
+  *  Nomad: https://www.nomadproject.io
 ### Reverse Proxy
   * Traefik: http://traefik.io
 ### Code Review
